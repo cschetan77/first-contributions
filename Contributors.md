@@ -50,6 +50,7 @@
 - [Karma Dolkar](https://github.com/karmadolkar)
 - [Alan Kavanagh](https://github.com/goidel)
 - [Yunki](https://github.com/yunkii)
+- [Ajit Kumar Chaurasiya](https://github.com/Ajit-53)
 - [prabusah](https://github.com/prabusah)
 - [Ramonta Lee](https://github.com/Ramonta-Lee)
 - [Preetham] (https://github.com/akaashpreetham1)
